@@ -1,0 +1,21 @@
+{
+  "name": "smsales",
+  "version": "1.0.0",
+  "description": "Education",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabhsale63/Smsales.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saurabhsale63/Smsales/issues"
+  },
+  "homepage": "https://github.com/saurabhsale63/Smsales#readme"
+}
